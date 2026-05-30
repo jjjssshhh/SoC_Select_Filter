@@ -1,6 +1,11 @@
 # SoC_Select_Filter
 
-OV7670 카메라로 영상을 촬영하여 VGA 모니터에 실시간 출력하는 FPGA SoC 프로젝트.
+OV7670 카메라로 영상을 촬영하여 VGA 모니터에 실시간 출력하는 FPGA SoC 프로젝트.  
+UART로 필터를 실시간 전환할 수 있다. (흑백 / 블러 / 밝기 / 엣지 / 반전)
+
+## 데모
+
+[![Demo](https://img.youtube.com/vi/QpY_T1iv3Es/0.jpg)](https://youtu.be/QpY_T1iv3Es)
 
 ## 구성
 
